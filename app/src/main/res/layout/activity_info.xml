@@ -13,11 +13,12 @@
         android:textSize="25sp" 
         android:maxLength="10"/>
 
-     <TextView
+     <EditText
         android:id="@+id/currentValue"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:inputType="number"
         android:textSize="20sp" />
 
     <EditText

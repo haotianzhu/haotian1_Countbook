@@ -8,6 +8,16 @@ import java.text.SimpleDateFormat;
 
 /**
  * Created by haotianzhu on 2017-09-23.
+ *
+ *
+ * count class with following attributes: name,current value, initial value, and text, and date
+ *
+ * functions: get attributes(each attribute), update each attribute, and increase or decrease current vlaue.
+ *
+ * other function: resetValue function: to set current value as initial value
+ *
+ * override to string to return a string contains name/value/date information
+ *
  */
 
 public class Count implements Serializable {
@@ -73,6 +83,12 @@ public class Count implements Serializable {
         this.initial_value = initial_value;
         return;
     }
+    public void updateCurrent(Integer value){
+        this.date = new Date();
+        this.current_value = value;
+        return;
+    }
+
     public void updateComment(String comment){
         this.date = new Date();
         this.comment = comment;

@@ -17,6 +17,13 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 
+/*
+* this class handdle the add activity, when user press add button, mainactivity will call  addactivity
+* in addactivity, firstly get input of name/value/text, if name is empty cancel the activity and show message to user
+* secondly if input is legal then create a new count object and send this object back to mainactivity
+*
+* */
+
 public class addActivity extends AppCompatActivity {
     private static final String FILENAME = "file.sav";
     private static Count count;
@@ -59,7 +66,7 @@ public class addActivity extends AppCompatActivity {
                 result.putSerializable("count_here",count);
                 resultIntent.putExtra("result",result);
                 if (name ==""||value == -1 ){
-                    setResult(RESULT_CANCELED,resultIntent);
+                    setResult(-12,resultIntent);
                 }else{
                     setResult(RESULT_OK,resultIntent);
 

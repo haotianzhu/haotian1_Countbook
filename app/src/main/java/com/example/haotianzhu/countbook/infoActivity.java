@@ -9,13 +9,29 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import java.io.IOException;
+
+/*
+* info activity handles each exists count's information.
+*
+* when user press row in mainactivity, mainactivity will call the selected row's info activity
+*
+* first show Count information, the current value and date are uneditable  (unable directly change)
+*
+* user can press button to increase or decrease current value , and can reset current value
+*
+* when user change value, check if name is empty , if it is , then does not change name
+*
+* update count or delete count make activity finish and return to main activity/ if updated, then send updated count to mainactivity
+*
+* */
+
+
 
 
 public class infoActivity extends AppCompatActivity {
     private static final String FILENAME = "file.sav";
     private static Count thisCount;
-    private TextView currentValue;
+    private EditText currentValue;
     private TextView currentDate;
     private EditText updateName;
     private EditText updateValue;
@@ -23,6 +39,7 @@ public class infoActivity extends AppCompatActivity {
     private String name;
     private Integer initial;
     private String comment;
+    private Integer current;
 
 
 
@@ -39,7 +56,7 @@ public class infoActivity extends AppCompatActivity {
         updateName = (EditText) findViewById(R.id.editName);
         updateValue = (EditText) findViewById(R.id.editValue);
         updateText = (EditText) findViewById(R.id.editText);
-        currentValue = (TextView) findViewById(R.id.currentValue);
+        currentValue = (EditText) findViewById(R.id.currentValue);
         currentDate = (TextView) findViewById(R.id.date);
 
         try{
@@ -52,7 +69,7 @@ public class infoActivity extends AppCompatActivity {
         updateValue.setHint("Initial Value: "+Integer.toString(thisCount.getInitialValue()));
         updateText.setText(thisCount.getText());
         currentDate.setText("Date: "+thisCount.getDate());
-        currentValue.setText("Current Value: "+Integer.toString(thisCount.getCurrentValue()));
+        currentValue.setHint("Current Value: "+Integer.toString(thisCount.getCurrentValue()));
 
 
 
@@ -100,6 +117,14 @@ public class infoActivity extends AppCompatActivity {
 
                     comment = thisCount.getText();
                 }
+
+                try {
+                    current = Integer.parseInt(currentValue.getText().toString());
+                    thisCount.updateCurrent(current);
+                }catch (Exception e) {
+                    current = thisCount.getCurrentValue();
+                }
+
                 Intent updateIntent = new Intent();
                 Bundle result = new Bundle();
                 result.putSerializable("update_here",thisCount);
@@ -111,7 +136,7 @@ public class infoActivity extends AppCompatActivity {
         delete.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
                 Intent deleteIntent = new Intent();
-                setResult(RESULT_CANCELED,deleteIntent);
+                setResult(-11,deleteIntent);
                 finish();
             }
         });
