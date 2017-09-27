@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CountBook</string>
+    <string name="app_name">haotian1_CountBook</string>
     <string name="title_activity_show">showActivity</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
