@@ -43,6 +43,7 @@ import java.util.ArrayList;
 *  use onActivityResult method to get result from other activity(distinguish result by number of request code 1 for add 2 for update/delete)
 *
 *
+*
 * */
 
 
@@ -151,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    //load data
+    //load data code from lab2
     private void loadFromFile() {
         try {
             FileInputStream fis = openFileInput(FILENAME);
@@ -170,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
             counts = new ArrayList<Count>();
         }
     }
-    //save data
+    //save data code from lab2
     private void saveInFile() {
         try {
             FileOutputStream fos = openFileOutput(FILENAME,
