@@ -1,3 +1,16 @@
+
+/*
+* ASSIGNMENT1
+* DATE: 9.28.2017
+* VERSION: V1.0
+*
+*/
+/*
+ * Copyright (c): HAOTIAN ZHU, CMPUT301, UNIVERSITY OF ALBERTA, ALL RIGHTS RESERVED.
+ *                       YOU MAY USE, DISTRIBUTE, OR MODIFY THIS CODE UNDER  TERM AND
+ *                       CONDITION OF CODE OF STUDENTS BEHAVIOR AT UNIVERSITY OF ALBERTA.
+ */
+
 package com.example.haotianzhu.countbook;
 
 

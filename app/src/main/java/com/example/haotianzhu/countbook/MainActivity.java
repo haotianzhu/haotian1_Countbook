@@ -1,5 +1,17 @@
-package com.example.haotianzhu.countbook;
 
+/*
+* ASSIGNMENT1
+* DATE: 9.28.2017
+* VERSION: V1.0
+*
+*/
+/*
+ * Copyright (c): HAOTIAN ZHU, CMPUT301, UNIVERSITY OF ALBERTA, ALL RIGHTS RESERVED.
+ *                       YOU MAY USE, DISTRIBUTE, OR MODIFY THIS CODE UNDER  TERM AND
+ *                       CONDITION OF CODE OF STUDENTS BEHAVIOR AT UNIVERSITY OF ALBERTA.
+ */
+
+package com.example.haotianzhu.countbook;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,7 +27,6 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
-import org.w3c.dom.Text;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
