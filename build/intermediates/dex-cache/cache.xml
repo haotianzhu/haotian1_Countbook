@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/c8bd064c2e30ecfa15a3e37a1bdf473f843eb230/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_4d99a7d426573212f2577cbe65d8ee3a35d2a172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/4251577cfb8b31b975ca93f7635ad1dee7f6c7d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_573c9c418b196dbeaaf01b542552ab86a878a0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/43cc5917dcf0bb3f57437b1bb62002fc6f66429e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_74c2679934e046eaaa27421a3e6a8d758f51ad0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/3a9be64c1dcefb5748b870ad6e0ed6508056d64f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_dafe05894b120f35189980530343929b94fa50ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/3e7470df2e58b05ad5ba122ffd9928e0c5343332/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_01a6bb3d4b32f8d605421de95fb158823de581a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/2f839fab44471edcaee103adc318167d820208e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_7458bef5bcbcab1a37246a626faa5c845eaa7f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/b4ed918b671abf1dc63b75d99f91095dd9a6b402/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_48935dab41bda7e16002467efcbdfb169ff1e451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/aae3d95e806173b183844ba994de47f5c0bc4c6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_6fb96ba7a4917f77df21404daa99265f65c3ce50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/21f24e6696c59ce90ed50206dca55ef0dfdeb437/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5d23793df1e17be9a5ca6b9f2046ce27b563060">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_3ddb2c2f6949e7fb04367aff75508ecc66ca847a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/gson-2.8.2_ae741ba31f6c11c3d47be6bccd5b9d0b0988f211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_c20adada69a0e759ca95c4ead82d5f202fcae81c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/c305bdb58c0985cc2c8e831bef844ba7f36d9330/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_50f4d29d51f054e39d41ad00efee38aa51a852eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1d3d269703da178d5fd295504e1de4dd3eb25eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_0831659409cecc19c367a38708ee26d448b19a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/5164f6efcec6b9dff551507385c1e33d5fd3b60e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_ff12ef704b9a303753e0d904babde820d7544f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/897f8135c1b7ae80c14877eb3829f14aed23f88a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_7cf13a0f54a47d08fb598371077fa4c555464571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/e22ddefc39b9d0855b842886215cc25a44daeaa0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_e709ea677126b2dc2475c21211d202b4d514225d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/pre-dexed/debug/classes_4b286c5193daf44716e4be487d2a24faa05bb4a4.jar" />
+    </item>
+
+</items>
