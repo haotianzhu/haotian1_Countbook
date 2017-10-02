@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

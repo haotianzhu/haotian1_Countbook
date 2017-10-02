@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/haotianzhu/.android/build-cache/e22ddefc39b9d0855b842886215cc25a44daeaa0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/haotianzhu/.android/build-cache/c8bd064c2e30ecfa15a3e37a1bdf473f843eb230/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/haotianzhu/.android/build-cache/897f8135c1b7ae80c14877eb3829f14aed23f88a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/haotianzhu/.android/build-cache/5164f6efcec6b9dff551507385c1e33d5fd3b60e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/haotianzhu/.android/build-cache/43cc5917dcf0bb3f57437b1bb62002fc6f66429e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/haotianzhu/.android/build-cache/b4ed918b671abf1dc63b75d99f91095dd9a6b402/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/haotianzhu/.android/build-cache/3a9be64c1dcefb5748b870ad6e0ed6508056d64f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/haotianzhu/.android/build-cache/aae3d95e806173b183844ba994de47f5c0bc4c6f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/haotianzhu/.android/build-cache/2f839fab44471edcaee103adc318167d820208e2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /Users/haotianzhu/.android/build-cache/21f24e6696c59ce90ed50206dca55ef0dfdeb437/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/haotianzhu/.android/build-cache/c305bdb58c0985cc2c8e831bef844ba7f36d9330/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/haotianzhu/.android/build-cache/3e7470df2e58b05ad5ba122ffd9928e0c5343332/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:8:9-43
+	android:supportsRtl
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.haotianzhu.countbook.MainActivity
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.haotianzhu.countbook.infoActivity
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.haotianzhu.countbook.addActivity
+ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml:20:19-46
+uses-sdk
+INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/haotianzhu/.android/build-cache/e22ddefc39b9d0855b842886215cc25a44daeaa0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.0] /Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/haotianzhu/.android/build-cache/c8bd064c2e30ecfa15a3e37a1bdf473f843eb230/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/haotianzhu/.android/build-cache/4251577cfb8b31b975ca93f7635ad1dee7f6c7d9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /Users/haotianzhu/.android/build-cache/897f8135c1b7ae80c14877eb3829f14aed23f88a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /Users/haotianzhu/.android/build-cache/5164f6efcec6b9dff551507385c1e33d5fd3b60e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/haotianzhu/.android/build-cache/43cc5917dcf0bb3f57437b1bb62002fc6f66429e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/haotianzhu/.android/build-cache/b4ed918b671abf1dc63b75d99f91095dd9a6b402/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/haotianzhu/.android/build-cache/3a9be64c1dcefb5748b870ad6e0ed6508056d64f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/haotianzhu/.android/build-cache/aae3d95e806173b183844ba994de47f5c0bc4c6f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/haotianzhu/.android/build-cache/2f839fab44471edcaee103adc318167d820208e2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /Users/haotianzhu/.android/build-cache/21f24e6696c59ce90ed50206dca55ef0dfdeb437/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/haotianzhu/.android/build-cache/c305bdb58c0985cc2c8e831bef844ba7f36d9330/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/haotianzhu/.android/build-cache/3e7470df2e58b05ad5ba122ffd9928e0c5343332/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/haotianzhu/.android/build-cache/c8bd064c2e30ecfa15a3e37a1bdf473f843eb230/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/haotianzhu/.android/build-cache/4251577cfb8b31b975ca93f7635ad1dee7f6c7d9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/haotianzhu/.android/build-cache/897f8135c1b7ae80c14877eb3829f14aed23f88a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/haotianzhu/.android/build-cache/5164f6efcec6b9dff551507385c1e33d5fd3b60e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/haotianzhu/.android/build-cache/43cc5917dcf0bb3f57437b1bb62002fc6f66429e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/haotianzhu/.android/build-cache/b4ed918b671abf1dc63b75d99f91095dd9a6b402/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/haotianzhu/.android/build-cache/3a9be64c1dcefb5748b870ad6e0ed6508056d64f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/haotianzhu/.android/build-cache/aae3d95e806173b183844ba994de47f5c0bc4c6f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/haotianzhu/.android/build-cache/2f839fab44471edcaee103adc318167d820208e2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.0] /Users/haotianzhu/.android/build-cache/21f24e6696c59ce90ed50206dca55ef0dfdeb437/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/haotianzhu/.android/build-cache/c305bdb58c0985cc2c8e831bef844ba7f36d9330/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/haotianzhu/.android/build-cache/3e7470df2e58b05ad5ba122ffd9928e0c5343332/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/AndroidManifest.xml:26:9-47

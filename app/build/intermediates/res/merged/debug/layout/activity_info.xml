@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="text" 
+        android:textSize="25sp" 
+        android:maxLength="10"/>
+
+     <EditText
+        android:id="@+id/currentValue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="number"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/editValue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="number" 
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:inputType="text"  
+        android:maxLength="40"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/increase"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="value+1" />
+
+    <Button
+        android:id="@+id/decrease"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="value-1" /> 
+
+
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="reset value" /> 
+
+     <Button
+        android:id="@+id/delete"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="delete" />
+    <Button
+        android:id="@+id/update"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="update" />
+
+
+
+
+</LinearLayout>

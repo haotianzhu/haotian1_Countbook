@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/anim/abc_fade_in.xml"
+    }
+]

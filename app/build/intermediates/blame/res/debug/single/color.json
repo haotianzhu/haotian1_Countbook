@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/5139bd14ee7c898bd7a405973dd5f73b0a3fb256/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/haotianzhu/.android/build-cache/3098e51413ae6ed5e0f94822e4529b829d5847ec/output/res/color/abc_tint_switch_track.xml"
+    }
+]

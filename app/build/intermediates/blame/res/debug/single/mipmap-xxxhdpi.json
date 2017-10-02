@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/haotianzhu/Documents/Android Project/CountBook/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/haotianzhu/Documents/Android Project/CountBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
